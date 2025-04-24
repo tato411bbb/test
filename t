@@ -1,4 +1,4 @@
-https://www.mobai.fi/mobai-en
+
 https://topai.tools/alternatives/ollama-ai
 
 GPU-VM Azure: https://medium.com/mcgill-artificial-intelligence-review/tutorial-setting-up-a-gpu-enabled-virtual-machine-on-microsoft-azure-f9a32fa1b536
