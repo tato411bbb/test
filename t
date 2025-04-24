@@ -47,7 +47,6 @@ wazu
 
 
 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -57,7 +56,10 @@ wazu
 <body bgcolor="#f0f0f0" alink="#000000" link="#000000" vlink="#000000" text="#000000" style="text-align:center; margin-top: 150px;">
 
   <!-- Simple grey button with smaller black text -->
-  <button
+<hr color="#007BFF" size="2" width="60%" />
+<br>  
+
+<button
     onclick="window.open('https://www.google.com', '_blank')"
     type="button"
     style="background-color: #888888; color: black; font-size: 14px; font-weight: bold; padding: 12px 32px; border-radius: 6px; border: none; cursor: pointer;"
@@ -72,6 +74,7 @@ wazu
 
 </body>
 </html>
+
 
 
 
