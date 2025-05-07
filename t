@@ -77,3 +77,9 @@ if __name__ == "__main__":
     tail_log_and_analyze(log_file_path)
 
 
+##################################
+
+https://github.com/dr-robert-li/ollama-server-log-analyzer
+
+
+
